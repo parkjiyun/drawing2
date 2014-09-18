@@ -2,7 +2,7 @@ function setup() {
 	createCanvas(640, 480);
 
 	backgroundColor = color(0, 0, 0);
-	fillColor = color(0, 0, 255)
+	fillColor = color(0, 0, 255);
 }
 
 function draw() {
